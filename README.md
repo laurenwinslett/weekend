@@ -1,7 +1,7 @@
 # weekend
 
-#friday
+# friday
 
-#saturday
+# saturday
 
-#sunday
+# sunday
