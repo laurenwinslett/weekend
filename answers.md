@@ -5,4 +5,4 @@ Commit saves the changes you made only to the local repository but not to the re
 Push commands push the local repository content onto a remote repository, to share the modifications with remote team members. Pull commands fetch and merge changes from the remote repository to the local repository.
 
 # 3. when do you need to pull?
-You use pull when you want to merge the new code changes with the main project repository on your local machine. 
+You use pull when you want to merge the new code changes with the main project repository on your local machine.
